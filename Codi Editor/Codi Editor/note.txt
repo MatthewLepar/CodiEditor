@@ -1,0 +1,7 @@
+// Mengakses Website //
+
+- seluruh project harus di pindahkan ke folder htdocs/xmpp
+- kita membuka xampp dan mengaktifkan apache dan mysql agar kita dapat mengakses localhost/dasboard
+- kita dapat mengatur seluruh database di phpmyadmin
+- untuk mengakses website utama kita, harus menuliskan localhost dan nama foldernya seperti dibawah
+    http://localhost/codi_editor/home/index.html
